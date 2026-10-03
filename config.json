@@ -1,0 +1,21 @@
+{
+  "seed": 42,
+  "quick_run": false,
+  "dataset_id": "intro/flickr8k",
+  "model_id": "Salesforce/blip-image-captioning-base",
+  "epochs": 5,
+  "batch_size": 4,
+  "eval_batch_size": 4,
+  "grad_accum_steps": 4,
+  "learning_rate": 2e-05,
+  "weight_decay": 0.01,
+  "max_text_length": 64,
+  "max_new_tokens": 40,
+  "num_beams": 3,
+  "mixed_precision": true,
+  "trainable_part": "text_decoder",
+  "caption_strategy": "one_per_image_cyclic_5",
+  "selection": "min_validation_loss_caption_0",
+  "dataset_revision": "c7a02cb487da0eca729e133194b0f842cb578c08",
+  "model_revision": "82a37760796d32b1411fe092ab5d4e227313294b"
+}

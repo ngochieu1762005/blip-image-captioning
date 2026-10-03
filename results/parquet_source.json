@@ -1,0 +1,24 @@
+{
+  "train": [
+    [
+      "train_0000.parquet",
+      "https://huggingface.co/datasets/intro/flickr8k/resolve/refs%2Fconvert%2Fparquet/default/train/0000.parquet"
+    ],
+    [
+      "train_0001.parquet",
+      "https://huggingface.co/datasets/intro/flickr8k/resolve/refs%2Fconvert%2Fparquet/default/train/0001.parquet"
+    ]
+  ],
+  "validation": [
+    [
+      "dev_0000.parquet",
+      "https://huggingface.co/datasets/intro/flickr8k/resolve/refs%2Fconvert%2Fparquet/default/dev/0000.parquet"
+    ]
+  ],
+  "test": [
+    [
+      "test_0000.parquet",
+      "https://huggingface.co/datasets/intro/flickr8k/resolve/refs%2Fconvert%2Fparquet/default/test/0000.parquet"
+    ]
+  ]
+}

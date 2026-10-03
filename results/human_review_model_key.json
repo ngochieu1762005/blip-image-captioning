@@ -1,0 +1,102 @@
+[
+  {
+    "test_index": 640,
+    "A": "fine_tuned",
+    "B": "baseline"
+  },
+  {
+    "test_index": 19,
+    "A": "baseline",
+    "B": "fine_tuned"
+  },
+  {
+    "test_index": 272,
+    "A": "baseline",
+    "B": "fine_tuned"
+  },
+  {
+    "test_index": 459,
+    "A": "baseline",
+    "B": "fine_tuned"
+  },
+  {
+    "test_index": 581,
+    "A": "baseline",
+    "B": "fine_tuned"
+  },
+  {
+    "test_index": 419,
+    "A": "fine_tuned",
+    "B": "baseline"
+  },
+  {
+    "test_index": 451,
+    "A": "fine_tuned",
+    "B": "baseline"
+  },
+  {
+    "test_index": 840,
+    "A": "baseline",
+    "B": "fine_tuned"
+  },
+  {
+    "test_index": 495,
+    "A": "fine_tuned",
+    "B": "baseline"
+  },
+  {
+    "test_index": 222,
+    "A": "fine_tuned",
+    "B": "baseline"
+  },
+  {
+    "test_index": 378,
+    "A": "fine_tuned",
+    "B": "baseline"
+  },
+  {
+    "test_index": 747,
+    "A": "baseline",
+    "B": "fine_tuned"
+  },
+  {
+    "test_index": 996,
+    "A": "fine_tuned",
+    "B": "baseline"
+  },
+  {
+    "test_index": 956,
+    "A": "fine_tuned",
+    "B": "baseline"
+  },
+  {
+    "test_index": 568,
+    "A": "baseline",
+    "B": "fine_tuned"
+  },
+  {
+    "test_index": 43,
+    "A": "fine_tuned",
+    "B": "baseline"
+  },
+  {
+    "test_index": 262,
+    "A": "fine_tuned",
+    "B": "baseline"
+  },
+  {
+    "test_index": 829,
+    "A": "baseline",
+    "B": "fine_tuned"
+  },
+  {
+    "test_index": 638,
+    "A": "fine_tuned",
+    "B": "baseline"
+  },
+  {
+    "test_index": 394,
+    "A": "fine_tuned",
+    "B": "baseline"
+  }
+]

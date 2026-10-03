@@ -1,0 +1,13 @@
+# Colab provides PyTorch; select a suitable CUDA build for local GPU use.
+torch>=2.3,<3
+transformers==4.51.3
+datasets==3.6.0
+nltk==3.9.1
+pycocoevalcap==1.2
+Pillow==11.3.0
+numpy==2.1.3
+pandas>=2.2,<3
+matplotlib>=3.8,<4
+tqdm>=4.66
+requests>=2.31,<3
+ipython>=8

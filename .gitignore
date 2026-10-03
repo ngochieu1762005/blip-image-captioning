@@ -1,0 +1,23 @@
+# Checkpoints and downloaded datasets
+models/best_model/
+best_model/
+*.pt
+*.pth
+*.safetensors
+*.parquet
+*.part
+.cache/
+data/
+
+# Local Python and notebook files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.env.*
+.DS_Store
+
+# Local result archives
+*_results.zip
